@@ -3,8 +3,11 @@
             margin-bottom: 50px;
             border: red 5px solid;
 }
-.ln{    padding-bottom: 300px;
+.ln{   
         margin-top: 20px;
+}
+.{
+        padding-bottom: 40px;
 }
 
 #bg1{    padding-bottom: 15px;
@@ -24,7 +27,7 @@ a{
     margin-right: 30px;
 }
 
-h1{ font-family: 'Poppins', sans-serif;
+h1,h2{ font-family: 'Poppins', sans-serif;
 
 }
 span{
@@ -64,3 +67,13 @@ span{
                     padding-top: 21px;
          }
 
+
+.lm{    margin-top: 60px;
+        margin-left: 90px;
+}
+.c:hover{
+        box-shadow: 0px 20px 40px lightgrey;
+}
+.test{  padding-top: 60px;
+        padding-left: 300px;
+}
